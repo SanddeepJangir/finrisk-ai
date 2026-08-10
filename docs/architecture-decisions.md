@@ -1,8 +1,6 @@
 
 ---
 
-# FILE 2 — `docs/architecture.md`
-
 This file explains **how the components communicate**.
 
 ```markdown
